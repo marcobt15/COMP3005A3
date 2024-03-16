@@ -1,0 +1,10 @@
+*** Youtube Link ***
+
+
+*** How to run application ***
+Clone and open this repository
+Create the database in pgadmin4
+Create students table
+Run query to get initial data
+Update portNumber, databaseName, user, and password located in connectToDatabase() function in DatabaseOperations.java
+run DatabaseOperations
